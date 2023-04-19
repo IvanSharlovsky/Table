@@ -1,0 +1,9 @@
+{
+    "name": "table",
+    "version-string": "0.1.0",
+    "license": "MIT",
+    "dependencies": [
+        "sqlite3",
+        "sqlite-modern-cpp"
+    ]
+}
