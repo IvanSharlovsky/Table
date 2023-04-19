@@ -7,7 +7,7 @@ project(table VERSION 0.1.0)
 # Lets use modern standard
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(table main.cpp)
+add_executable(table table.cpp)
 
 find_package(unofficial-sqlite3 CONFIG REQUIRED)
 target_link_libraries(table PRIVATE unofficial::sqlite3::sqlite3)

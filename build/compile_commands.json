@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Documents/GitHub/Table/build",
+  "command": "D:\\Apps\\msys64\\mingw64\\bin\\g++.exe -isystem D:/Documents/GitHub/Table/build/vcpkg_installed/x64-windows/include -g -std=gnu++17 -o CMakeFiles\\table.dir\\table.cpp.obj -c D:\\Documents\\GitHub\\Table\\table.cpp",
+  "file": "D:\\Documents\\GitHub\\Table\\table.cpp"
+}
+]
